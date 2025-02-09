@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XinbinhaChan)](https://github.com/XinbinhaChan/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XinbinhaChan&locale=pt-br&show_icons=true&icon_color=FFD700&bg_color=10131b&title_color=A020F0&text_color=9400D3&hide_border=true)](https://github.com/XinbinhaChan/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Theus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
