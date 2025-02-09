@@ -5,9 +5,9 @@
 <div>
 <a src="https://github.com/XinbinhaChan/github-readme-stats">
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=XinbinhaChan&locale=pt-br&show_icons=true&icon_color=FFD700&bg_color=10131b&title_color=A020F0&text_color=9400D3&hide_border=true">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=XinbinhaChan&locale=pt-br&show_icons=true&icon_color=DC143C&bg_color=10131b&title_color=DB7093&text_color=FFC0CB&hide_border=true">
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinbinhaChan&layout=compact&locale=pt-br&bg_color=10131b&title_color=A020F0&text_color=9400D3&hide_border=true">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinbinhaChan&layout=compact&locale=pt-br&bg_color=10131b&title_color=DB7093&text_color=FFC0CB&hide_border=true">
 
 </div>
 
