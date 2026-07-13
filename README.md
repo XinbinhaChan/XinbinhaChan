@@ -1,11 +1,11 @@
 <body bgcolor="ffffff">
   <img src="Welcome to my Github Profile.jpg"/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-maximiano-bb5bbb305/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FDFDFE?style=for-the-badge&logo=linkedin&logoColor=582834" />
   </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-FDFDFE?style=for-the-badge&logo=codeforces&logoColor=582834" />
+  <a href="https://www.instagram.com/xinbinhachan17" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FDFDFE?style=for-the-badge&logo=instagram&logoColor=582834" />
   </a>
 </p>
 <br>
@@ -14,13 +14,13 @@
 <img src="rune.jpg" width="250" align="right" style="margin-left: 20px; border: 2px solid #582834;" />
 <br/>
 <p>
-  Hello There! <em><b>I'm Matheus Maximiano</b></em>, um estudante de ciência da computação no segundo semestre da faculdade. Atualmente estou aprendendo habilidades variadas e procurando cargos de estágio para me consolidar no mercado de trabalho e adquirir experiência.
+  Hello There! <em><b>I'm Matheus Maximiano</b></em>, a Computer Science student passionate about technology, software development, and continuous learning. I'm currently expanding my technical skills and looking for internship opportunities where I can contribute, learn from experienced professionals, and grow as a software developer.
 </p>
 <br/>
 <p align-items="center" justify-content="center">
-      <em><b>Computer Science student @ UNASP, São Paulo</b></em> <br/>
-      <em><b>Desenvolvendo as habilidades para me tornar um desenvolvedor de software</b></em><br/>
-      <em><b>Open to internship proposals</b></em><br/>
+      <em><b>📍 Computer Science Student @ UNASP, São Paulo</b></em> <br/>
+      <em><b>💻 Aspiring Software Developer</b></em><br/>
+      <em><b>📬 Open to Internship Opportunities</b></em><br/>
 </p>
 <br/>
 <br/>
