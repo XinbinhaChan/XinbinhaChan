@@ -1,34 +1,45 @@
-<h1>Matheus Maximiano Prado</h1>
+<img src="Welcome to my Github Profile.jpg"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FDFDFE?style=for-the-badge&logo=linkedin&logoColor=582834" />
+  </a>
+  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-FDFDFE?style=for-the-badge&logo=codeforces&logoColor=582834" />
+  </a>
+</p>
+<br>
 
-**`Desenvolvedor em aprendizagem`**
+<h2 align="center"> <em><span style="color:#D19B51">About me</span></em></h2>
+<img src="" width="250" align="right" style="margin-left: 20px; border: 2px solid #582834;" />
+<br/>
+<p>
+  Hello There! <em><b>I'm Matheus Maximiano</b></em>, um estudante de ciência da computação no segundo semestre da faculdade. Atualmente estou aprendendo habilidades variadas e procurando cargos de estágio para me consolidar no mercado de trabalho e adquirir experiência.
+</p>
+<br/>
+<p align-items="center" justify-content="center">
+      <em><b>Computer Science student @ UNASP, São Paulo</b></em> <br/>
+      <em><b>Desenvolvendo as habilidades para me tornar um desenvolvedor de software</b></em><br/>
+      <em><b>Open to internship proposals</b></em><br/>
+</p>
+<br/>
+<br/>
 
-<div>
-<a src="https://github.com/XinbinhaChan/github-readme-stats">
+<h2 align="center" style="color:#D19B51"> <em><span style="color:#D19B51">Technologies</span></em> </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-FDFDFE?style=for-the-badge&logo=c%2B%2B&logoColor=582834" />
+  <img src="https://img.shields.io/badge/Python-FDFDFE?style=for-the-badge&logo=python&logoColor=582834" />
+  <img src="https://img.shields.io/badge/R-FDFDFE?style=for-the-badge&logo=r&logoColor=582834" />
+  <img src="https://img.shields.io/badge/JavaScript-FDFDFE?style=for-the-badge&logo=javascript&logoColor=582834" />
+  <img src="https://img.shields.io/badge/HTML5-FDFDFE?style=for-the-badge&logo=html5&logoColor=582834" />
+  <img src="https://img.shields.io/badge/CSS3-FDFDFE?style=for-the-badge&logo=css3&logoColor=582834" />
+  <img src="https://img.shields.io/badge/React-FDFDFE?style=for-the-badge&logo=react&logoColor=582834" />
+  <img src="https://img.shields.io/badge/Node.js-FDFDFE?style=for-the-badge&logo=nodedotjs&logoColor=582834" />
+  <img src="https://img.shields.io/badge/Git-FDFDFE?style=for-the-badge&logo=git&logoColor=582834" />
+  <img src="https://img.shields.io/badge/MySQL-FDFDFE?style=for-the-badge&logo=mysql&logoColor=582834" />
+</p>
+<br/>
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=XinbinhaChan&locale=pt-br&show_icons=true&icon_color=c18f42&bg_color=0d1117&title_color=e8e4e3&text_color=e0325e&hide_border=true">
-
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinbinhaChan&layout=compact&locale=pt-br&bg_color=0d1117&title_color=e8e4e3&text_color=e0325e&hide_border=true">
-
-</div>
-
-<div style="display: inline_block">
-  <h3>Linguagens:</h3>
-  <img align="center" alt="Theus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Theus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Theus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Theus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-  ##
-
-<div style="display: inline_block">
-  <h3>Ferramentas:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
- ##
- 
-<div>
-  <a href="https://www.instagram.com/xinbinhachan17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-maximiano-bb5bbb305/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h2 align="center""> <em><span style="color:FDFDFE">Statistics</span></em> </h2>
+<div align="center"> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XinbinhaChan&bg_color=FDFDFE&color=582834&line=582834&point=582834&area=true&hide_border=false" width="100%"/>
 </div>
