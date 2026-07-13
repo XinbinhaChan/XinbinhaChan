@@ -1,4 +1,5 @@
-<img src="Welcome to my Github Profile.jpg"/>
+<body bgcolor="ffffff">
+  <img src="Welcome to my Github Profile.jpg"/>
 <p align="center">
   <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FDFDFE?style=for-the-badge&logo=linkedin&logoColor=582834" />
@@ -10,7 +11,7 @@
 <br>
 
 <h2 align="center"> <em><span style="color:#D19B51">About me</span></em></h2>
-<img src="" width="250" align="right" style="margin-left: 20px; border: 2px solid #582834;" />
+<img src="rune.jpg" width="250" align="right" style="margin-left: 20px; border: 2px solid #582834;" />
 <br/>
 <p>
   Hello There! <em><b>I'm Matheus Maximiano</b></em>, um estudante de ciência da computação no segundo semestre da faculdade. Atualmente estou aprendendo habilidades variadas e procurando cargos de estágio para me consolidar no mercado de trabalho e adquirir experiência.
@@ -43,3 +44,5 @@
 <div align="center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=XinbinhaChan&bg_color=FDFDFE&color=582834&line=582834&point=582834&area=true&hide_border=false" width="100%"/>
 </div>
+
+</body>
